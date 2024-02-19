@@ -1,0 +1,12 @@
+void main() {
+  
+  int n = 42;
+
+  if (n > 70) {
+    print("li pi gran ke 70.");
+  } else if (n < 70) {
+    print(" li pi piti ke 70.");
+  } else {
+    print("Li egal a 70.");
+  }
+}
